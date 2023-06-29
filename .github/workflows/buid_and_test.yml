@@ -30,7 +30,7 @@ jobs:
                      quay.io/fossid/workbench-agent:0.1.0 \
             --api_url http://fossid.osbc.kr:912/api.php \
             --api_user fossid \
-            --api_tokenkkJKMyQBCoThL2d5FA2JHod89wogERae0Af1OlgGNm \
+            --api_token kkJKMyQBCoThL2d5FA2JHod89wogERae0Af1OlgGNm \
             --project_code $PROJECT_CODE \
             --scan_code $PROJECT_CODE \
             --path "/tmp/analyzed_code" \
